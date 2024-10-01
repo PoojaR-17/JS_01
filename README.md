@@ -32,3 +32,12 @@ Javascript is one of the most popular and widely used programming languages.
 A program is something like the language of a computer which a computer understands. There are many different programming languages like C, Java, Python, Javascript, etc. Through Program, we can tell computers which task we want to perform. In our daily life, we use applications to perform some tasks like VLC for watching videos, Excel Sheet for documents, Skype for video calling, etc.
 
 Every application in its core is a computer program, which is giving a nice beautiful interface through which we are communicating with the computers.
+
+## What is a scripting language?
+
+> *Scripting language is like a sub-category of programming languages which will connect one language to another which is crucial for developing websites. Difference between scripting and programming languages is the role of a compiler. Programming languages will be compiled in one go whereas scripting languages will be interpreted line by line.*
+
+## What is a framework in general?
+
+> *Frameworks provide developers with the basic foundation necessary for applications. This saves developers the effort of starting any application from scratch.*
+>
